@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Mission1_Jeffery_Yates
+namespace Mission2_Jeffery_Yates
 {
     public class DiceSimulator
     {
